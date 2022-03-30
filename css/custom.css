@@ -1,0 +1,31 @@
+.card.post li.nav-item .nav-link i {
+    color: black !important;
+    position: relative !important;
+    font-size: 23px !important;
+    margin-left: -11px !important;
+}
+
+.card.post li.nav-item.bookmark {
+    position: absolute;
+    right: 0;
+}
+
+.card.post .profile-images {
+    width: 35px;
+    height: 35px;
+}
+
+.story {
+    width: 60px;
+    margin-right: 10px;
+}
+
+.story span {
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.story img {
+    border: solid rgb(226, 72, 33) 2px;
+    /* border-image: linear-gradient(45deg, rgb(0, 143, 104), rgb(250, 224, 66)) 1; */
+}
